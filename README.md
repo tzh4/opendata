@@ -1,1 +1,1 @@
-# open datasets sharing safely through GitHub
+# open datasets sharing safely from GitHub
